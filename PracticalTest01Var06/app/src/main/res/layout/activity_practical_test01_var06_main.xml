@@ -57,4 +57,16 @@
 
     </LinearLayout>
 
+
+    <Button
+        android:id="@+id/navigate"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:inputType="text"
+        android:layout_below="@+id/laytwo"
+        android:gravity="center_horizontal"
+
+        android:text="Navigate to secondary activity"
+        />
+
 </RelativeLayout>
